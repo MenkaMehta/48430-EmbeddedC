@@ -1,2 +1,2 @@
-# 48430_EmbeddedC
-2016_EmbeddedC
+# 48430 EmbeddedC
+UTS Spring 2016
